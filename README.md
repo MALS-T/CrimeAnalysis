@@ -12,6 +12,7 @@ This is a personal project to practice data analysis and visualisations using Py
 - matplotlib
 - seaborn
 - plotly
+- shapely
 - numpy
 
 ## Notes
